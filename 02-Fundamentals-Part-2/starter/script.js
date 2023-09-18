@@ -7,7 +7,7 @@ function takeone(object) {
     console.log(`pick this: ${object}`);
 }
 
-// Dunction expression
+// function expression
 const test_2 = makeOne(); // you can't do that with no error return ( live server to see error coming)
 
 const makeOne = function (object) {
