@@ -13,3 +13,4 @@ const test_2 = makeOne(); // you can't do that with no error return ( live serve
 const makeOne = function (object) {
     console.log("hello world!");
 };
+console.log();
